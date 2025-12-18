@@ -1,0 +1,8 @@
+IP-CIDR,223.107.175.201/32
+IP-CIDR,47.103.47.59/32
+URL-REGEX,qqmusic\.qq\.com
+URL-REGEX,music\.tc\.qq\.com
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN-SUFFIX,p2ptun.qq.com
+DOMAIN-KEYWORD,tencentmusic
+PROCESS-NAME,*QQMusic*
